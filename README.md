@@ -7,13 +7,13 @@ You can check out the deployed application here:
 🔗 [Item Management Task](https://item-management-task.netlify.app/)
 
 ## 📦 Tech Stack
-- React.js
-- Tailwind CSS (or any other styling library used)
-- React Router (if applicable)
-- Any additional dependencies used in the project
+- Next.js
+- Tailwind CSS
+-shadCN 
+
 
 ## 📜 Features
-- [✔] Implemented required functionalities based on the given task
+- [✔] Implemented CRUD operation for items 
 - [✔] Responsive design
 - [✔] Deployed for easy access and review
 
